@@ -53,3 +53,5 @@ Dentro do diretório do projeto, você pode rodar os seguintes comandos:
 - `npm run dev`: Inicia o servidor local de desenvolvimento. As alterações no código serão refletidas na mesma hora na tela (Hot Module Replacement).
 - `npm run build`: Compila a aplicação para produção na pasta `dist`, minificando os arquivos e otimizando para o melhor desempenho.
 - `npm run preview`: Serve a pasta `dist` gerada pelo comando `build` localmente, para você testar como a aplicação se comportará em ambiente de produção.
+
+LINK VERCEL: https://meu-projectooo-ae9oh9g27-franclidesgilson-uxs-projects.vercel.app
